@@ -77,7 +77,7 @@ sudo apt-get install python3-pip -y
 sudo pip3 install -U pip
 curl -fssL
 https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-git clone https://github.com/itzshukla/STRANGER-MUSIC2.0 && cd STRANGER-MUSIC2.0
+git clone https://github.com/sparsh260707/STRAWBERRY-MUSIC && cd STRAWBERRY-MUSIC
 pip3 install -U -r requirements.txt
 bash setup
 sudo apt install tmux
